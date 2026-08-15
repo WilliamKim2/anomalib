@@ -2,6 +2,8 @@
 
 > 여러 국가/리전에 분산된 임직원을 지원하는 IT 헬프데스크를 위한 글로벌 티켓 시스템 설계 문서입니다.
 
+> **구현 저장소**: 실제 개발은 이 저장소가 아닌 별도 저장소 [`WilliamKim2/Qts_IT_helpdesk`](https://github.com/WilliamKim2/Qts_IT_helpdesk)에서 진행합니다. 이 문서는 설계 기준(Source of Truth)으로 유지되며, 코드는 위 저장소를 참조하세요.
+
 ## 1. 목표 및 범위
 
 ### 1.1 목표
